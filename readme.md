@@ -1,9 +1,13 @@
 ﻿---
 layout:     post
 title:      使用须知
-subtitle:   readme
+subtitle:   
 date:       2017-09-18
 author:     Heber
+header-img: 
+catalog: true
+tags:
+    - readme
 ---
 
 ## 注意
